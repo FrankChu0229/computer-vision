@@ -1,5 +1,6 @@
-# computer-vision
-code for computer vision course: Corner Detect Algorithm
+# Corner Detect Algorithm 
+
+Code for computer vision course: Corner Detect Algorithm
 
 **Usage**:
 
