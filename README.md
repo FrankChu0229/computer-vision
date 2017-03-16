@@ -1,5 +1,7 @@
 # computer-vision
-code for computer vision course
-For Corner Detect Algo
+code for computer vision course: Corner Detect Algorithm
+
+**Usage**:
+
 cornerDetect( filename, 'harris' )
 
