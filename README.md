@@ -6,3 +6,4 @@ Code for computer vision course: Corner Detect Algorithm
 
 cornerDetect( filename, 'harris' )
 
+---
